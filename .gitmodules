@@ -1,0 +1,3 @@
+[submodule "ClimaTrack-BackEnd"]
+	path = ClimaTrack-BackEnd
+	url = https://github.com/BuzzTech-API/ClimaTrack-BackEnd.git
