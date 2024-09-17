@@ -1,3 +1,6 @@
 [submodule "ClimaTrack-BackEnd"]
 	path = ClimaTrack-BackEnd
 	url = https://github.com/BuzzTech-API/ClimaTrack-BackEnd.git
+[submodule "ClimaTrack-FrontEnd"]
+	path = ClimaTrack-FrontEnd
+	url = https://github.com/BuzzTech-API/ClimaTrack-FrontEnd.git
