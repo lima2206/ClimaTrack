@@ -19,7 +19,6 @@
 <br>
 
 <h4 align="center">
- <a href="https://react.dev"><img src = "https://img.shields.io/badge/React-3781b0?style=for-the-badge&logo=React&logoColor=white"/></a>
  <a href="https://firebase.google.com/"><img src = "https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a>
  <a href="https://github.com/"><img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
  <a href="https://www.figma.com/"><img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/></a>
@@ -31,7 +30,9 @@
 
 ## :medal_sports: Desafio <a id="desafio"></a>
 
-Desenvolver um aplicativo para auxiliar os produtores rurais a acompanhar o histórico das variações das informações climáticas de uma determinada lavoura. O aplicativo deve permitir aos usuários cadastrar seus pontos e acompanhar via gráficos a variação da pluviometria e da temperatura a partir de uma data informada, até a data atual. Além disso, deve exibir dados consolidados de temperatura e pluviometria por ano ou mês, e emitir notificações e alertas em caso de situações críticas.
+Desenvolver um aplicativo para auxiliar os produtores rurais a acompanhar o histórico das variações das informações climáticas de uma determinada lavoura. O aplicativo deve permitir aos usuários cadastrar seus pontos e acompanhar via gráficos a variação da pluviometria e da temperatura a partir de uma data informada, até a data atual. 
+
+Além disso, deve exibir dados consolidados de temperatura e pluviometria por ano ou mês, e emitir notificações e alertas em caso de situações críticas.
 
 <br>
 
@@ -40,8 +41,8 @@ Desenvolver um aplicativo para auxiliar os produtores rurais a acompanhar o hist
 <div>
 O nosso Produto Mínimo Viável (MVP) concentra-se em dois aspectos principais:
 
-Realizar a pesquisa de uma localidade.
-Obter informações sobre temperatura e pluviosidade.
+- Realizar a pesquisa de uma localidade.
+- Obter informações sobre temperatura e pluviosidade.
 </div>
 
 <br>
