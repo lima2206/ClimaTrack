@@ -1,8 +1,8 @@
 # ClimaTrack
 
 <p align="center">
-      <img src="Documentação/img/Logo/logo-ClimaTrack.png" alt="logo da ClimaTrack" width="200">
-      <h2 align="center"> ClimaTrack</h2>
+      <img src="Documentação/img/Logo/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      <h2 align="center"> Buzz Tech</h2>
 
 <br>
 
@@ -90,6 +90,6 @@ O projeto foi dividido em Sprints, onde priorizamos tarefas que trouxessem maior
 | Natanael Machado | Desenvolvedor | <a href="https://github.com/NatanaelSM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/natanael-machado-796841270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Pedro Davi | Desenvolvedor | <a href="https://github.com/PedrohDavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/pedro-davi-jobs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 | Vitor Lima  | Desenvolvedor | <a href="https://github.com/lima2206"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/vitor-spricigo-lima-84a377184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Rafael Motta | Desenvolvedor | <a href="https://github.com/rafaelmotta"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| Rafael Motta | Desenvolvedor | <a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
 
 <br>
