@@ -2,7 +2,7 @@
 # Kersys - ClimaTrack
 
 <p align="center">
-      <img src="Documentação/img/Logo/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      <img src="Documentação/Img/Logo/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
       <h2 align="center"> Buzz Tech</h2>
 
 <br>
