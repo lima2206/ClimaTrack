@@ -49,10 +49,13 @@ Além disso, deve exibir dados consolidados de temperatura e pluviometria por an
 
 <div>
 O nosso Produto Mínimo Viável (MVP) concentra-se em dois aspectos principais:
-<br>
+      
 - Realizar a pesquisa de uma localidade.
-<br>
+
+  
 - Obter informações sobre temperatura e pluviosidade.
+
+  
 </div>
 
 <br>
@@ -86,6 +89,19 @@ O projeto foi dividido em Sprints, onde priorizamos tarefas que trouxessem maior
 
 ## 📋 Backlog do Produto <a id="backlog"></a>
 
+| **Prioridade** | **ID**   | **História de Usuário**                         | **Descrição**                                                                                                    |
+|----------------|----------|-------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| 1              | US004    | Pesquisa do Local                               | Eu, como usuário, quero pesquisar uma área para obter informações sobre ela.                                      |
+| 2              | US006    | Exibição dos dados da Pluviosidade              | Eu, como usuário, quero ver os dados de pluviosidade em uma granularidade escolhida (ano, mês, dia).              |
+| 3              | US007    | Exibição dos dados da Temperatura               | Eu, como usuário, quero ver os dados de temperatura com granularidade para evitar problemas no plantio.           |
+| 4              | US005    | Salvar Local                                    | Eu, como usuário, quero salvar os locais de minhas plantações para acompanhar as condições climáticas.            |
+| 5              | US001    | Registro de Usuário                             | Eu, como um novo usuário, quero me registrar com meu nome, e-mail e senha para acessar o sistema.                 |
+| 6              | US002    | Login de Usuário                                | Eu, como usuário registrado, quero fazer login com meu e-mail e senha para acessar minha conta.                   |
+| 7              | US008    | Notificação de Alteração Climática Extrema      | Eu, como usuário, quero definir parâmetros para receber notificações de temperaturas extremas e alta/baixa pluviosidade. |
+| 8              | US009    | Notificação de Alteração Climática Prolongada   | Eu, como usuário, quero definir parâmetros para notificações de períodos prolongados de alterações climáticas.     |
+| 9              | US010    | Marcar Locais para Acesso Offline               | Eu, como usuário, quero escolher os locais para acessar offline.                                                  |
+| 10             | US011    | Atualização dos Dados Offline                   | Eu, como usuário, quero que os dados offline sejam atualizados automaticamente quando houver conexão com a internet. |
+| 11             | US003    | Edição de Informações do Usuário                | Eu, como usuário registrado, quero poder alterar meus dados na plataforma.                                        |
 
 <br>
 
