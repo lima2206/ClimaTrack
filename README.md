@@ -105,7 +105,7 @@ O projeto foi dividido em Sprints, onde priorizamos tarefas que trouxessem maior
 
 ## :mortar_board: Equipe <a id="equipe"></a>
 
-<p align="center">
+<div align="center">
   <table>
     <tr>
       <th>Membro</th>
@@ -162,6 +162,6 @@ O projeto foi dividido em Sprints, onde priorizamos tarefas que trouxessem maior
       <td><a href="https://www.linkedin.com/in/rafaelmotta97"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></td>
     </tr>
   </table>
-</p>
+</div>
 
 <br>
