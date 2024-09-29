@@ -58,6 +58,26 @@ O nosso Produto Mínimo Viável (MVP) concentra-se em dois aspectos principais:
 
 <br>
 
+## 	:art: Protótipo do Programa <a id="prot"></a>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+       <img src="Documentação/Img/Prototipo/SearchScreen - media fidelidade.png" width="250" height="">
+      </td>
+      <td>
+        <img src="Documentação/Img/Prototipo/ResultScreen - media fidelidade.png" width="250" height=""> 
+      </td>
+  </table>
+  
+</div>
+
+
+<br>
+
 ## 📅 Sprints <a id="sprint"></a>
 
 🔖 SPRINT 1: Concluído! ✅
