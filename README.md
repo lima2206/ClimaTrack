@@ -80,7 +80,7 @@ O nosso Produto Mínimo Viável (MVP) concentra-se em dois aspectos principais:
 
 ## 📽 Demonstração <a id="demo"></a>
 
-[Vídeo de Demonstração - Sprint 1](https://www.youtube.com/watch?v=TnMFILxzt3g"Entrega Sprint 1")
+[Vídeo de Demonstração - Sprint 1](https://www.youtube.com/watch?v=TnMFILxzt3g)
 
 <br>
 
