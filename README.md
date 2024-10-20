@@ -30,7 +30,11 @@
  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
  <a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></a>
+ <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></a>
+ <a href="https://www.atlassian.com/software/jira"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/></a>
 </h4>
+
+
 
 
 <br>
@@ -91,7 +95,7 @@ O nosso Produto Mínimo Viável (MVP) concentra-se em dois aspectos principais:
 
 🔖 SPRINT 1: Concluído! ✅
 
-🔖 SPRINT 2: 20/10
+🔖 SPRINT 2: Concluido! ✅
 
 🔖 SPRINT 3: 10/11
 
