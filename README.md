@@ -55,11 +55,11 @@ Além disso, deve exibir dados consolidados de temperatura e pluviometria por an
 ## 🚀 MVP <a id="mvp"></a>
 
 
-O nosso Produto Mínimo Viável (MVP) concentra-se em dois aspectos principais:
+O nosso Produto Mínimo Viável (MVP) abrange os seguintes recursos:
       
 - Realizar a pesquisa de uma localidade.
-- Obter informações sobre o historico de temperatura e pluviosidade.
-- Salvar a localidade desejada
+- Obter informações sobre o histórico de temperatura e pluviosidade.
+- Salvar a localidade pesquisada.
 
 
 <br>
