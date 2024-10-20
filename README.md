@@ -70,15 +70,28 @@ O nosso Produto Mínimo Viável (MVP) concentra-se em dois aspectos principais:
 <br>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-       <img src="Documentação/Img/Prototipo/SearchScreen - media fidelidade.png" width="250" height="">
-      </td>
-      <td>
-        <img src="Documentação/Img/Prototipo/ResultScreen - media fidelidade.png" width="250" height=""> 
-      </td>
-  </table>
+<table>
+  <tr>
+    <td>
+      <img src="Documentação/Img/Prototipo/SearchScreen - alta fidelidade.png" width="250" height="">
+    </td>
+    <td>
+      <img src="Documentação/Img/Prototipo/ResultScreen - alta fidelidade.png" width="250" height="">
+    </td>
+    <td>
+      <img src="Documentação/Img/Prototipo/MyAreas - alta fidelidade.png" width="250" height="">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="Documentação/Img/Prototipo/SavedLocation - alta fidelidade.png" width="250" height="">
+    </td>
+    <td>
+      <img src="Documentação/Img/Prototipo/modals - alta fidelidade.png" width="250" height="">
+    </td>
+  </tr>
+</table>
+
   
 </div>
 
