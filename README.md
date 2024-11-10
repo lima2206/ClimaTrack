@@ -109,7 +109,7 @@ O nosso Produto Mínimo Viável (MVP) abrange os seguintes recursos:
 
 🔖 SPRINT 2: Concluido! ✅
 
-🔖 SPRINT 3: 10/11
+🔖 SPRINT 3: Concluido! ✅
 
 🔖 SPRINT 4: 01/12
 
