@@ -40,7 +40,7 @@
 <br>
 <br>
 
-> Status do Projeto: Em andamento
+> Status do Projeto: Concluido
 
 <br>
 
@@ -57,9 +57,11 @@ Além disso, deve exibir dados consolidados de temperatura e pluviometria por an
 
 O nosso Produto Mínimo Viável (MVP) abrange os seguintes recursos:
       
-- Realizar a pesquisa de uma localidade.
-- Obter informações sobre o histórico de temperatura e pluviosidade.
-- Salvar a localidade pesquisada.
+- Pesquisa de Localidade: Permite ao usuário realizar a busca de informações climáticas de uma localidade específica.
+- Histórico Climático: Fornece dados históricos sobre temperatura e pluviosidade da localidade pesquisada.
+- Salvar Localidade: O usuário pode salvar localidades pesquisadas para acesso rápido.
+- Alarmes Climáticos: Gera notificações caso os níveis de temperatura ou pluviosidade da localidade atinjam valores alarmantes.
+- Série Histórica de Dados: Exibe informações detalhadas do histórico climático da localidade pesquisada.
 
 
 <br>
@@ -111,7 +113,7 @@ O nosso Produto Mínimo Viável (MVP) abrange os seguintes recursos:
 
 🔖 SPRINT 3: Concluido! ✅
 
-🔖 SPRINT 4: 01/12
+🔖 SPRINT 4: Concluido! ✅
 
 <br>
 
